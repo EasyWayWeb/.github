@@ -1,6 +1,6 @@
 <h1 align=center> Welcome to Easy Way Web 👋 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=288DB9&width=435&lines=EASY+WAY+WEB;IT+AGENCY+DEVELOPMENT;SOFTWARES;WEB;MOBILE;WE MAKE IT FOR YOU GUYS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=288DB9&width=435&lines=EASY+WAY+WEB;IT+AGENCY+DEVELOPMENT;SOFTWARES;WEB;MOBILE;WE+MAKE+IT+FOR+YOU+GUYS)](https://git.io/typing-svg)
 
 <h2 align=center> IT AGENCY DEVELOPMENT (Software, Web and Mobile) 📱 💻 ⌨️ 🖥 </h2> 
 
